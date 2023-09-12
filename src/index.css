@@ -47,6 +47,9 @@ body {
   align-items: center;
   justify-content: space-between;
 }
+.app-header h1 {
+  padding-left: 85px;
+}
 
 .error {
   text-align: center;
